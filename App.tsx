@@ -23,7 +23,7 @@ function App(): React.JSX.Element {
   const handlePressItem = () => {
     invokeSurveySparrow({
       domain: 'feedback.cenomirewards.com',
-      token: 'tt-cBkMU',
+      token: 'tt-27hoA',
       surveyType: 'classic',
     });
   };
